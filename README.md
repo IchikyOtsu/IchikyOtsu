@@ -42,6 +42,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IchikyOtsu&show_icons=true&theme=radical" alt="Statistiques GitHub" width="400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IchikyOtsu&theme=radical" alt="Streak stats" width="400px"/>
+   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </div>
 
 ---
