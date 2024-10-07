@@ -2,12 +2,16 @@
 <h3 align="center">Développeur et étudiant passionné de Cybersécurité 🚀</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-blue?style=flat-square&logo=linux" alt="Linux Badge" />
-  <img src="https://img.shields.io/badge/Editor-VS_Code-blue?style=flat-square&logo=visual-studio-code" alt="VSCode Badge" />
-  <img src="https://img.shields.io/badge/IDE-PyCharm-green?style=flat-square&logo=pycharm" alt="PyCharm Badge" />
-  <img src="https://img.shields.io/badge/Language-Python-green?style=flat-square&logo=python" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square&logo=javascript" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Badge" />
+  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Badge" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode Badge" />
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge" />
+  <img src="https://img.shields.io/badge/Version_Control-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge" />
+  <img src="https://img.shields.io/badge/Security-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" alt="Nmap Badge" />
 </p>
+
 
 ---
 
@@ -36,8 +40,8 @@
 ### 📈 Mes statistiques GitHub :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ichiky&show_icons=true&theme=radical" alt="Statistiques GitHub" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ichiky&theme=radical" alt="Streak stats" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IchikyOtsu&show_icons=true&theme=radical" alt="Statistiques GitHub" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IchikyOtsu&theme=radical" alt="Streak stats" width="400px"/>
 </div>
 
 ---
