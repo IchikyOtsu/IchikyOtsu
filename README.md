@@ -71,8 +71,6 @@
   <a href="https://github.com/FaceX-Integration-Project-2024/FaceX-FaceRecognition">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FaceX-Integration-Project-2024&repo=FaceX-FaceRecognition&theme=radical&cache_seconds=60" alt="FaceX-FaceRecognition Repo" />
   </a>
-</div>
-<div align="center">
   <a href="https://github.com/FaceX-Integration-Project-2024/FaceX-FaceRecognition">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IchikyOtsu&repo=l2-10.ephec-ti.be&theme=radical&cache_seconds=60" alt="l2-10.ephec-ti.be Repo" />
   </a>
