@@ -19,7 +19,7 @@
 - 🔭 Actuellement, je travaille sur un projet de **gestion de présence par reconnaissance faciale**.
 - 🎓 Je suis étudiant en **Bachelier informatique** à L'EPHEC.
 - 💼 Je m'intéresse à la **Cybersécurité**, au **Réseau** et au **Développement Full Stack**.
-- 📫 Tu peux me contacter par [Email](bricedelcroix05@gmail.com).
+- 📫 Tu peux me contacter par Email.
 
 ---
 
