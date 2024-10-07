@@ -1,5 +1,6 @@
-<h1 align="center">Salut, moi c'est Ichiky 👋</h1>
+<h1 align="center">Ichiky <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/right-pointing-magnifying-glass_1f50e.png" width="40" height="40" alt="Sukunaikona Icon"/></h1>
 <h3 align="center">Développeur et étudiant passionné de Cybersécurité 🚀</h3>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Badge" />
