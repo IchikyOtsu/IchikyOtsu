@@ -57,8 +57,7 @@
 
 <div align="center">
   <a href="https://github.com/FaceX-Integration-Project-2024/FaceX-FaceRecognition">
-    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=FaceX-Integration-Project-2024&repo=FaceX-FaceRecognition&theme=radical](https://github-readme-stats.vercel.app/api/pin/?username=FaceX-Integration-Project-2024&repo=FaceX-FaceRecognition&theme=radical&cache_seconds=60
-)" alt="FaceX-FaceRecognition Repo" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FaceX-Integration-Project-2024&repo=FaceX-FaceRecognition&theme=radical&cache_seconds=60" alt="FaceX-FaceRecognition Repo" />
   </a>
 </div>
 
