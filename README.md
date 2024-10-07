@@ -48,7 +48,7 @@
 
 ### 🏆 Mes trophées GitHub :
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ichiky&theme=radical&margin-w=15" alt="Trophées GitHub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=IchikyOtsu&theme=radical&margin-w=15" alt="Trophées GitHub"/>
 </div>
 
 ---
@@ -57,7 +57,7 @@
 
 <div align="center">
   <a href="https://github.com/FaceX-Integration-Project-2024/FaceX-FaceRecognition">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IchikyOtsu&repo=FaceX-FaceRecognition&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IchikyOtsu&repo=FaceX-Integration-Project-2024/FaceX-FaceRecognition&theme=radical" />
   </a>
 </div>
 
