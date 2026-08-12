@@ -18,9 +18,8 @@
 ---
 
 ### 🌟 À propos de moi :
-- 🎓 Je suis étudiant en **Bachelier informatique** à L'EPHEC.
+- 🎓 Je suis étudiant en **Master Cybersécurité**.
 - 💼 Je m'intéresse à la **Cybersécurité**, auX **Réseaux** et au **Développement Full Stack**.
-- 📫 Tu peux me contacter par Email.
 
 ---
 
@@ -57,6 +56,7 @@
 </tr>
 </table>
 </div>
+
 ---
 
 ### 🏆 Mes trophées GitHub :
@@ -72,14 +72,7 @@
   <a href="https://github.com/FaceX-Integration-Project-2024/FaceX-FaceRecognition">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FaceX-Integration-Project-2024&repo=FaceX-FaceRecognition&theme=radical&cache_seconds=60" alt="FaceX-FaceRecognition Repo" />
   </a>
-  <a href="https://github.com/FaceX-Integration-Project-2024/FaceX-FaceRecognition">
+  <a href="https://github.com/IchikyOtsu/l2-10.ephec-ti.be">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IchikyOtsu&repo=l2-10.ephec-ti.be&theme=radical&cache_seconds=60" alt="l2-10.ephec-ti.be Repo" />
   </a>
 </div>
-
----
-
-### 🔗 Liens externes :
-- 💼 [LinkedIn](https://www.linkedin.com/in/brice-delcroix-b911ab32b/)
-- 📂 [Portfolio](https://ichiky-portfolio.com) COMING SOON
-
